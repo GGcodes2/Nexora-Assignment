@@ -8,6 +8,7 @@ A full-stack e-commerce application built with React and Node.js, featuring prod
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Setup Instructions](#setup-instructions)
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
@@ -112,6 +113,30 @@ Nexora-Assignment/
 - Clean navigation bar
 - Intuitive user experience
 - Mobile-friendly layout
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+*Product listing page with grid layout*
+
+### Shopping Cart
+![Shopping Cart](./screenshots/cart-page.png)
+*Cart page showing items with checkout functionality*
+
+### Checkout Form
+![Checkout](./screenshots/checkout-form.png)
+*Checkout form for placing orders*
+
+### Orders History
+![Orders](./screenshots/orders-page.png)
+*Order history page displaying past orders*
+
+> **Note:** To add screenshots:
+> 1. Create a `screenshots` folder in the root directory
+> 2. Add your screenshot images (PNG, JPG, or GIF format)
+> 3. Update the image paths above to match your screenshot filenames
+> 4. Recommended screenshot names: `home-page.png`, `cart-page.png`, `checkout-form.png`, `orders-page.png`
 
 ## 🚀 Setup Instructions
 
